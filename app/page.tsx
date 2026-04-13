@@ -1,6 +1,6 @@
 "use client";
 
-import BillsTrackerApp from "../BillsTrackerApp";
+import BillsTrackerApp from "./BillsTrackerApp";
 
 export default function Page() {
   return <BillsTrackerApp />;
